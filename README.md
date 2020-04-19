@@ -12,6 +12,7 @@
     John Li (zli769@wisc.edu), CS400-001, x-142
     Duncan Broadie (dbroadie@wisc.edu), CS400-1
     Shruti Sharma (sharma224@wisc.edu), CS400-1
+    Hao Kui Ma (hma99@wisc.edu), CS400-004, x-142
     Samuel Bahr (sdbahr@wisc.edu), CS400-001, x-142
 
 5. Other notes or comments to the grader:
